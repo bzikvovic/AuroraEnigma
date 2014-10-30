@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
     //bzivkovic 2
     
     // mbenkek 3
+    // BZIVKOVIC 3
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
