@@ -56,7 +56,7 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 
 /**
- * IJetty
+ * IJetty gkalic
  * 
  * Main Jetty activity. Can start other activities: + configure + download
  * 
