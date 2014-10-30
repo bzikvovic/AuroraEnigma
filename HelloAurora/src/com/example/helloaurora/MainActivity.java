@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
 // komentar bzivkovic i gkalic
     
     // mbenkek
+    //bzivkovic 2
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
